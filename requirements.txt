@@ -1,0 +1,11 @@
+streamlit==1.43.2
+pypdf==5.4.0
+sentence-transformers==3.4.1
+faiss-cpu==1.10.0
+transformers==4.49.0
+torch>=2.2.0
+numpy==2.2.3
+scikit-learn==1.6.1
+fastapi==0.115.11
+uvicorn==0.34.0
+python-multipart==0.0.20
